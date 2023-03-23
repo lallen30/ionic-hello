@@ -1,0 +1,7 @@
+{
+  "name": "dateTime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
